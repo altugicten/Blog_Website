@@ -1,1 +1,1 @@
-# Blog_Website TEST 1
+# Mvc ve katmanlı mimari yapısı kullanarak oluşturduğum örnek bir sözlük websitesi.
